@@ -1,5 +1,5 @@
 
-<h1>🌟 Launching My Latest Creation: A Full-Stack MERN Photo Gallery App!</h1>
+<h1>Launching My Latest Creation: A Full-Stack MERN Photo Gallery App!</h1>
 
 I'm excited to announce the completion of my latest project—a dynamic Photo Gallery Application designed and developed using the MERN stack. This application aims to provide a seamless and interactive way to store, view, and manage photos.
 
